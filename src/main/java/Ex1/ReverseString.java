@@ -1,3 +1,5 @@
+package Ex1;
+
 public class ReverseString implements Reverseble<String,Integer> {
     @Override
     public Integer reverseNumber(String number) {
